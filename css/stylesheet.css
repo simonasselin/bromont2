@@ -1,0 +1,1212 @@
+@charset "UTF-8";
+@import url("motion.css");
+
+
+#greybanner {
+	background-color: rgba(142,142,142,1.00);
+	height: 40px;
+	width: 100%;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	border-bottom: 1px solid rgba(255,255,255,1.00);
+}
+#greybanner #contentgrey #middle ul {
+	list-style-type: none;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+#greybanner #contentgrey #middle ul li {
+	float: left;
+	padding-right: 5px;
+	margin-right: 25px;
+	height: 20px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	width: 129px;
+}
+.middlegreybanner {
+	border-right-width: 1px;
+	border-right-style: solid;
+	border-right-color: rgba(255,255,255,1.00);
+}
+#greybanner #contentgrey #middle ul li a {
+	color: rgba(51,51,51,1.00);
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: 13px;
+	text-decoration: none;
+	text-align: left;
+}
+
+#greybanner #contentgrey #middle ul li a:hover, #greybanner #contentgrey #right ul li a:hover {
+	text-decoration:underline;
+	-webkit-transition: all .5s ease-out;
+	-moz-transition: all .5s ease-out;
+	-ms-transition: all .5s ease-out;
+	-o-transition: all .5s ease-out;
+	transition: all .5s ease-out;
+}.mountainbike {
+}
+#greybanner #contentgrey #middle ul li .grid_6.middlegreybanner.mountainbike {
+	color: rgba(255,255,255,1.00);
+}
+.onmountainbike {
+}
+#greybanner #contentgrey #middle ul li .onmountainbike {
+	text-decoration:underline;
+}
+.weather    {
+	color: rgba(51,51,51,1.00);
+	font-size: 20px;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 5px;
+}
+.textwaether {
+	color: rgba(51,51,51,1.00);
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: 12px;
+	text-align: left;
+	margin-top: 10px;
+}
+body {
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	margin-bottom: 0px;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif
+}
+#greybanner #contentgrey #right ul {
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	list-style-type: none;
+}
+#greybanner #contentgrey #right ul li {
+	float: left;
+	margin-top: 10px;
+	display: block;
+	padding-right: 10px;
+	padding-bottom: 5px;
+	margin-right: 15px;
+}
+#greybanner #contentgrey #right ul li a {
+	color: rgba(51,51,51,1.00);
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: 12px;
+	text-decoration: none;
+	text-align: center;
+}
+#menudarkgrey {
+	background-color: rgba(51,51,51,1);
+	height: 80px;
+	width: 100%;
+	margin:0px;
+	
+}
+#menudarkgrey #mainmenu .grid_4 img {
+	margin-top: 14px;
+	margin-bottom: 14px;
+}
+.bannerfront {
+	background-image: url(../img/banner.jpg);
+	background-repeat: repeat-x;
+	height: 400px;
+	width: 100%;
+	background-size: cover;
+	opacity:100%;
+	
+}
+
+.bannertrail {
+	background-image: url(../img/bannertrail.jpg);
+	background-repeat: repeat-x;
+	height: 400px;
+	width: 100%;
+	background-size: cover;
+	opacity: 100%;	
+}
+
+.bannerrates {
+	background-image: url(../img/banner-rates.jpg);
+	background-repeat: repeat-x;
+	height: 400px;
+	width: 100%;
+	background-size: cover;
+	opacity: 100%;	
+}
+
+
+.bannerbromont {
+	background-repeat: repeat-x;
+	height: 400px;
+	width: 100%;
+	background-size: cover;
+	opacity: 100%;
+	background-image: url(../img/bannebromont.jpg);
+}
+
+
+.bannerinfo {
+	background-image: url(../img/bannerinfo.jpg);
+	background-repeat: repeat-x;
+	height: 400px;
+	width: 100%;
+	background-size: cover;
+	opacity: 100%;	
+}
+
+.bannerevent {
+	background-image: url(../img/bannerevent.jpg);
+	background-repeat: repeat-x;
+	height: 400px;
+	width: 100%;
+	background-size: cover;
+	opacity: 100%;	
+}
+
+
+/*main content HOME*/
+	
+	.HOMEmaincontent {
+	background-color: rgba(255,255,255,1.00);}
+	
+	.squaresizehome {
+	height:229px;
+	margin-top:20px;
+	background-color:rgba(51,51,51,1.00);
+	}
+.boxsizehome {
+	height:146px;
+	margin-bottom:20px;
+	position:relative;
+
+	}
+	
+	.bgparkinfo{
+		border-radius:10px;
+		
+		background-color: rgba(52,207,133,1.00);
+		position:relative;
+		overflow:hidden;
+		
+
+
+	}
+	.hoverbgparkinfo{
+		border-radius:10px;
+	position: absolute;
+	opacity:0;
+	background-image:url(../img/trail-home.jpg);
+	top: 0px;
+	left:-10px;
+	-webkit-transition: all 1s ease-in-out;
+	-moz-transition: all 1s ease-in-out;
+	-ms-transition: all 1s ease-in-out;
+	-o-transition: all 1s ease-in-out;
+	transition: all 1s ease-in-out;
+
+	}
+	
+	.hoverbgparkinfo:hover{
+	
+	top: 0px;
+	left: -10px;
+	opacity: 1	;
+	
+	
+	
+
+	}
+	
+	.bgbromont {
+		border-radius:10px;
+	background-color: rgba(174,174,174,1.00);
+	position: relative;
+	overflow: hidden;	
+	text-align:center;	
+
+
+	}
+	.hoverbgbromont {
+		border-radius:10px;
+	position: absolute;
+	opacity: 0;
+	background-image: url(../img/bromonthome.jpg);
+	top: 0px;
+	left: -10px;
+	-webkit-transition: all 1s ease-in-out;
+	-moz-transition: all 1s ease-in-out;
+	-ms-transition: all 1s ease-in-out;
+	-o-transition: all 1s ease-in-out;
+	transition: all 1s ease-in-out;
+
+	}
+	
+	.hoverbgbromont a, .bgbromont a, .bgevent a, .hoverbgevent a, .bgpracticalinfos a , .hoverbgpracticalinfos a, .bgrates a, .hoverbgrates a, .hoverbgparkinfo a, .bgparkinfo a {
+		color: white;
+		font-size: 20px;
+		display:block;
+		width:976px;
+		height:83px;
+		padding-top:63px;
+		text-decoration:none;
+		text-align:center;
+		
+		
+		}
+	
+	.hoverbgbromont:hover{
+	
+	top: 0px;
+	left: -10px;
+	opacity: 1	;
+	
+	
+	
+
+	}
+	
+/*	p.textboxsizehome
+	{
+	
+	padding-top: 41px;
+	text-align: center;
+	
+	}*/
+	/*p.textboxsizehome a {
+	
+	color: rgba(255,255,255,1.00);
+	font-size: 20px;
+	padding-top: 41px;
+	text-decoration:none;
+	}*/
+
+
+
+	
+	
+	
+	.bgevent{
+		border-radius:10px;
+	background-color: rgba(232,88,71,1.00);
+	position: relative;
+	overflow: hidden;		
+
+
+	}
+	.hoverbgevent{
+		border-radius:10px;
+	position: absolute;
+	opacity: 0;
+	background-image: url(../img/event-home.jpg);
+	top: 0px;
+	left: -10px;
+	-webkit-transition: all 1s ease-in-out;
+	-moz-transition: all 1s ease-in-out;
+	-ms-transition: all 1s ease-in-out;
+	-o-transition: all 1s ease-in-out;
+	transition: all 1s ease-in-out;
+	}
+	
+	.hoverbgevent:hover{
+	
+	top: 0px;
+	left: -10px;
+	opacity: 1	;
+	background-color: rgba(52,207,133,1.00);
+	
+
+	}
+	
+	.bgpracticalinfos{
+		border-radius:10px;
+	background-color: rgba(87,145,187,1.00);
+	position: relative;
+	overflow: hidden;
+
+	}
+	.hoverbgpracticalinfos{
+		border-radius:10px;
+	position: absolute;
+	opacity: 0;
+	background-image: url(../img/info-home.jpg);
+	top: 0px;
+	left: -10px;
+		-webkit-transition: all 1s ease-in-out;
+	-moz-transition: all 1s ease-in-out;
+	-ms-transition: all 1s ease-in-out;
+	-o-transition: all 1s ease-in-out;
+	transition: all 1s ease-in-out;
+	}
+	
+	.hoverbgpracticalinfos:hover{
+	
+	top: 0px;
+	left: -10px;
+	opacity: 1	;
+	background-color: rgba(52,207,133,1.00);
+
+
+	}
+	
+
+.bgrates{
+	border-radius:10px;
+	background-color: rgba(255,180,5,1.00);
+	position: relative;
+	overflow: hidden;
+
+	}
+	.hoverbgrates{
+		border-radius:10px;
+	position: absolute;
+	opacity: 0;
+	background-image: url(../img/rates-home.jpg);
+	top: 0px;
+	left: -10px;
+	-webkit-transition: all 1s ease-in-out;
+	-moz-transition: all 1s ease-in-out;
+	-ms-transition: all 1s ease-in-out;
+	-o-transition: all 1s ease-in-out;
+	transition: all 1s ease-in-out;
+	}
+	
+	.hoverbgrates:hover{
+	
+	top: 0px;
+	left: -10px;
+	opacity: 1	;
+	background-color: rgba(52,207,133,1.00);
+	
+
+	}
+
+
+
+	
+	
+#maincontenthome{
+	margin-top:20px;
+
+	}
+	
+	
+	
+	
+
+/*footer	*/
+.eventbannercolorfooter {
+	background-color:rgba(232,88,71,1.00);
+	height:10px;
+	width:1005;
+	}
+.ratebannercolorfooter {
+	background-color:rgba(255,180,5,1.00);
+	height:10px;
+	width:1005;}
+	
+	.trailbannercolorfooter {
+	background-color:rgba(52,207,133,1.00);
+	height:10px;
+	width:1005;}
+	
+	.infobannercolorfooter {
+	background-color:rgba(87,145,187,1.00);
+	height:10px;
+	width:1005;}
+	
+	.bromontbannercolorfooter {
+	background-color:rgba(174,174,174,1.00);
+	height:10px;
+	width:1005;}
+	
+	
+#footer {
+	background-color: rgba(51,51,51,1);
+	height: 310px;
+	width: 100%;
+	padding-top: 20px;
+}
+.footerline {
+	border-bottom: 1px solid rgba(255,255,255,1.00);
+	padding-top: 20px;
+	padding-bottom: 40px;
+	margin-bottom:20px;
+	height: 80px;
+	
+}
+.footertitle {
+	color: rgba(255,255,255,1.00);
+	
+	font-size: 14px
+}
+
+#footer .container_12 .grid_2 ul {
+	margin:0px;
+	padding:0px;
+	list-style:none;
+
+	
+}#footer .footertitle a {
+	color: rgba(255,255,255,1.00);
+	text-decoration:none;
+	text-transform:capitalize;
+}
+
+#footer .footertitle a:hover {
+	text-decoration: underline;
+}
+
+
+
+
+#footer .container_12 .grid_2 ul li a {
+	color: rgba(174,174,174,1.00);
+	font-size:12px;
+	text-decoration:none;
+	
+
+}
+
+#footer .container_12 .grid_2 ul li a:hover {
+	color: rgba(255,255,255,1.00);	
+-webkit-transition: all .5s ease-out;
+	-moz-transition: all .5s ease-out;
+	-ms-transition: all .5s ease-out;
+	-o-transition: all .5s ease-out;
+	transition: all .5s ease-out;
+}
+
+.footertext {
+	color: rgba(174,174,174,1.00);
+	
+	font-size:12px;
+	
+
+}
+
+#followustitle , #newslettertitle
+{
+	color: rgba(255,255,255,1.00);
+	font-size:14px;
+	text-align:center;
+	text-decoration:none;
+	text-transform:capitalize;
+	margin-bottom:20px;
+}
+.submitjaune {
+	background-color: rgba(255,180,5,1.00);
+	height: 23px;
+	margin-top:10px;
+	margin-bottom:10px;
+	font-size:14px;
+	text-align:center;
+	padding-top:7px;
+	color:rgba(255,255,255,1.00);
+}
+
+
+
+.submitjaune:hover {
+	background-color: rgba(174,174,174,1.00);
+	cursor: pointer;
+	color:rgba(51,51,51,1.00);
+	-webkit-transition: background-color .3s ease-out;
+	-moz-transition: background-color .3s ease-out;
+	-o-transition: background-color .3s ease-out;
+	transition: background-color .3s ease-out;
+}
+
+
+.submitvert {
+	background-color: rgba(52,207,133,1.00);
+	height: 23px;
+	margin-top:10px;
+	margin-bottom:10px;
+	font-size:14px;
+	text-align:center;
+	padding-top:7px;
+	color:rgba(255,255,255,1.00);
+}
+
+
+
+.submitvert:hover {
+	background-color: rgba(174,174,174,1.00);
+	cursor: pointer;
+	color:rgba(51,51,51,1.00);
+	-webkit-transition: background-color .3s ease-out;
+	-moz-transition: background-color .3s ease-out;
+	-o-transition: background-color .3s ease-out;
+	transition: background-color .3s ease-out;
+}
+
+
+.submitbleu {
+	background-color: rgba(87,145,187,1.00);
+	height: 23px;
+	margin-top:10px;
+	margin-bottom:10px;
+	font-size:14px;
+	text-align:center;
+	padding-top:7px;
+	color:rgba(255,255,255,1.00);
+}
+
+
+
+.submitbleu:hover {
+	background-color: rgba(174,174,174,1.00);
+	cursor: pointer;
+	color:rgba(51,51,51,1.00);
+	-webkit-transition: background-color .3s ease-out;
+	-moz-transition: background-color .3s ease-out;
+	-o-transition: background-color .3s ease-out;
+	transition: background-color .3s ease-out;
+}
+
+
+
+
+.submitgrey {
+	background-color: rgba(174,174,174,1.00);
+	height: 23px;
+	margin-top:10px;
+	margin-bottom:10px;
+	font-size:14px;
+	text-align:center;
+	padding-top:7px;
+	color:rgba(255,255,255,1.00);
+}
+
+.submitred{
+	background-color: rgba(232,88,71,1.00);
+	height: 23px;
+	margin-top:10px;
+	margin-bottom:10px;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size:14px;
+	text-align:center;
+	padding-top:7px;
+	color:rgba(255,255,255,1.00);
+	
+	
+	}
+
+.submitgrey:hover, .submitred:hover {
+	background-color: rgba(150,150,150,1.00);
+	cursor: pointer;
+	color:rgba(51,51,51,1.00);
+	-webkit-transition: background-color .3s ease-out;
+	-moz-transition: background-color .3s ease-out;
+	-o-transition: background-color .3s ease-out;
+	transition: background-color .3s ease-out;
+}
+
+.newsletterbox {
+	background-color: rgba(255,255,255,1.00);
+	height: 20px;
+padding-left:5px;
+	padding-top:5px;
+	padding-bottom:5px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	
+}
+
+.newsletterbox:hover {
+	-webkit-transition: background-color 1s ease-out;
+	-moz-transition: background-color 1s ease-out;
+	-o-transition: background-color 1s ease-out;
+	transition: background-color 1s ease-out;
+	-webkit-box-shadow: 0px 0px 5px rgba(174,174,174,1.00);
+	box-shadow: 0px 0px 5px rgba(174,174,174,1.00);
+	cursor:text;
+}
+
+
+
+
+/*SUBMENU SECTION*/
+
+
+
+
+
+h1 {
+	font-size:25px;
+	padding-top:6px;
+	color:white;
+	margin:0px;
+	line-height:none;
+	text-decoration:none;
+	font-style:normal;}
+
+ .trailbordertop .container_12 #SUBMENU ul {
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	list-style-type: none;
+	
+		
+}
+ .trailbordertop .container_12 #SUBMENU ul li {
+	float: left;
+	
+	
+	
+
+	
+	}
+	
+.trailbordertop .container_12 #SUBMENU ul li a {
+	color: rgba(255,255,255,1.00);
+	font-size: 14px;
+	text-align: left;
+	text-decoration: none;
+	margin-top:10px;
+	margin-right: 10px;
+	padding-right: 10px;
+	padding-left:10px;
+	padding-top: 5px;
+	padding-bottom:5px;
+	height:20px;
+	display:block;
+	border-top-left-radius:3px;
+	border-top-right-radius:3px;
+	
+}
+
+
+
+
+
+/*hover green*/
+
+.trailbordertop .container_12 #SUBMENU ul li a:hover, .trailbordertop .container_12 #SUBMENU ul li.onmountainbike2 a {
+	color: rgba(52,207,133,1.00);
+	background-color:white;
+	-webkit-transition: background-color 1s ease-out;
+	-moz-transition: background-color 1s ease-out;
+	-o-transition: background-color 1s ease-out;
+	transition: background-color 1s ease-out;
+
+	
+}
+ .trailbordertop .container_12 #SUBMENU ul li a.onmountainbike2 {
+
+	background-color:rgba(255,255,255,1.00);
+	-webkit-transition: background-color .2s ease-out;
+	-moz-transition: background-color .2s ease-out;
+	-o-transition: background-color .2s ease-out;
+	transition: background-color .2s ease-out;
+	
+}
+
+/*GREEN*/
+
+
+.onmountainbike2 {}
+
+#menudarkgrey #mainmenu #menu nav ul .drop .menutitle.onmountainbike2, #menudarkgrey #mainmenu #menu nav ul .drop .dropdownContain .dropOut ul li .greenmenu.onmountainbike2 {
+
+	color: rgba(52,207,133,1.00);
+}
+
+
+
+
+.trailbordertop {
+	background-color: rgba(52,207,133,1);
+	height: 40px;
+	width: 100%;
+}
+
+
+
+
+/*main content trail*/
+
+.spacemaincontent{
+	margin-top:20px;
+	margin-bottom:20px;
+}
+
+.maintext {
+	font-size:12px;
+	color:rgba(51,51,51,1.00);
+	padding-top:0px;
+	padding-bottom:0px;
+	margin-top:0px;
+	margin-bottom:10px;
+}
+h2 {
+	font-size:16px;
+	color:rgba(51,51,51,1.00);
+	padding-bottom:10px;
+	padding-top:0px;
+	padding-left:20px;
+	margin:0px;
+}
+
+h3{
+	font-size:14px;
+	color:rgba(51,51,51,1.00);
+	padding-bottom:10px;
+	padding-top:0px;
+	margin:0px;
+}
+
+.imagespadding{
+	padding-left:20px;
+	
+	
+}
+.padding {
+	margin-top:20px;}
+
+.subtitleborder {
+	border-bottom-color: rgba(51,51,51,1.00);
+	border-bottom-width: 2px;
+	border-bottom-style: solid;
+	margin-bottom:10px;  
+	
+}
+#map {
+	margin-top:20px;}
+	
+	.maintexttable {
+	font-size:12px;
+	color:rgba(51,51,51,1.00);
+	padding-left:20px;
+	padding-top:5px;
+	padding-bottom:0px;
+	margin-top:0px;
+	margin-bottom:10px;
+	
+	}.container_12 .grid_5.padding .maintext a {
+	color: rgba(146,146,146,1.00);
+	text-decoration: none;
+
+}
+
+	.container_12 .grid_5.padding .maintext a:hover {
+	color: rgba(51,207,133,1.00);
+	text-decoration: none;
+		-webkit-transition: background-color 1s ease-in;
+	-moz-transition: background-color 1s ease-in;
+	-o-transition: background-color 1s ease-in;
+	transition: background-color 1s ease-in;
+}
+
+.subschedule{
+	font-size:14px;
+	text-align:center;
+	color:rgba(51,51,51,1.00);
+	padding-bottom:10px;
+	padding-top:0px;
+	margin:0px;
+}
+	
+	.greenline {
+		border-top:1px;
+		border-top-color:rgba(51,207,133,1.00);
+		border-top-style:dashed;
+	}
+	
+	.maintextcenter {
+	font-size:12px;
+	color:rgba(51,51,51,1.00);
+	padding-top:0px;
+	padding-bottom:0px;
+	margin-top:0px;
+	margin-bottom:10px;
+	text-align:center;
+}
+
+/*yellow*/
+
+
+
+#menudarkgrey #mainmenu #menu nav ul .drop .menutitle.onmountainbike, #menudarkgrey #mainmenu #menu nav ul .drop .dropdownContain .dropOut ul li .yellowmenu.onmountainbike {
+
+	color: rgba(255,180,5,1.00);
+}
+
+.ratesbordertop {
+	background-color:rgba(255,180,5,1.00);
+	height: 40px;
+	width: 100%;
+}
+
+.ratesbordertop .container_12 #SUBMENU ul li a:hover, .ratesbordertop .container_12 #SUBMENU ul li.onmountainbike a {
+	color: rgba(255,180,5,1.00);
+	background-color: white;
+	-webkit-transition: background-color 1s ease-out;
+	-moz-transition: background-color 1s ease-out;
+	-o-transition: background-color 1s ease-out;
+	transition: background-color 1s ease-out;
+	
+}
+ .ratesbordertop .container_12 #SUBMENU ul li a.onmountainbike {
+
+	background-color:rgba(255,255,255,1.00);
+	-webkit-transition: background-color .2s ease-out;
+	-moz-transition: background-color .2s ease-out;
+	-o-transition: background-color .2s ease-out;
+	transition: background-color .2s ease-out;
+	
+}
+
+ .ratesbordertop .container_12 #SUBMENU ul {
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	list-style-type: none;
+	
+		
+}
+ .ratesbordertop .container_12 #SUBMENU ul li {
+	float: left;
+	
+	
+	
+
+	
+	}
+	
+.ratesbordertop .container_12 #SUBMENU ul li a {
+	color: rgba(255,255,255,1.00);
+	font-size: 14px;
+	text-align: left;
+	text-decoration: none;
+	margin-top:10px;
+	margin-right: 10px;
+	padding-right: 10px;
+	padding-left:10px;
+	padding-top: 5px;
+	padding-bottom:5px;
+	height:20px;
+	border-top-left-radius:3px;
+	border-top-right-radius:3px;
+	display:block;
+	
+}
+
+/*fin submenu jaune*/
+	.yellowline {
+		border-top:1px;
+		border-top-color:rgba(255,180,5,1.00);
+		border-top-style:dashed;
+		padding-bottom:0px;
+	}
+	
+	.yellowbuy{
+		background-color:rgba(255,180,5,1.00);
+		text-align:center;
+		color:white;
+		font-size:14px;
+		margin-bottom:10px;
+		padding-bottom:2px;
+		border-radius:5px;}
+		
+		
+			.yellowbuy2{
+				border-radius:5px;
+		background-color:rgba(255,180,5,1.00);
+		text-align:center;
+		color:white;
+		font-size:14px;
+		margin-bottom:10px;
+		padding-bottom:5px;
+		padding-top:5px;
+		}
+		
+		.container_12 .grid_2.yellowbuy2:hover, .container_12 .grid_6.yellowbuy2:hover, .container_12 .grid_2.yellowbuy:hover, .container_12 .grid_6.yellowbuy:hover  {
+			background-color:rgba(142,142,142,1.00);
+			cursor:pointer;
+			color:rgba(51,51,51,1.00);
+			text-decoration:none;
+			-webkit-transition: background-color .2s ease-out;
+	-moz-transition: background-color .2s ease-out;
+	-o-transition: background-color .2s ease-out;
+	transition: background-color .2s ease-out;
+}
+
+
+
+/*BLEU*/
+
+.onmountainbike3{}
+
+#menudarkgrey #mainmenu #menu nav ul .drop .menutitle.onmountainbike3, #menudarkgrey #mainmenu #menu nav ul .drop .dropdownContain .dropOut ul li .bluemenu.onmountainbike3 {
+
+	color: rgba(87,145,187,1.00);
+}
+
+.infobordertop {
+	background-color: rgba(87,145,187,1);
+	height: 40px;
+	width: 100%;
+}
+
+.infobordertop .container_12 #SUBMENU ul li a:hover, .infobordertop .container_12 #SUBMENU ul li.onmountainbike3 a {
+	color: rgba(87,145,187,1.00);
+	background-color:white;
+	-webkit-transition: background-color 1s ease-out;
+	-moz-transition: background-color 1s ease-out;
+	-o-transition: background-color 1s ease-out;
+	transition: background-color 1s ease-out;
+
+	
+}
+ .infobordertop .container_12 #SUBMENU ul li a.onmountainbike3 {
+
+	background-color:rgba(255,255,255,1.00);
+	-webkit-transition: background-color .2s ease-out;
+	-moz-transition: background-color .2s ease-out;
+	-o-transition: background-color .2s ease-out;
+	transition: background-color .2s ease-out;
+	
+}
+
+ .infobordertop .container_12 #SUBMENU ul {
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	list-style-type: none;
+	
+		
+}
+ .infobordertop .container_12 #SUBMENU ul li {
+	float: left;
+	
+	
+	
+
+	
+	}
+	
+.infobordertop .container_12 #SUBMENU ul li a {
+	color: rgba(255,255,255,1.00);
+	font-size: 14px;
+	text-align: left;
+	text-decoration: none;
+	margin-top:10px;
+	margin-right: 10px;
+	padding-right: 10px;
+	padding-left:10px;
+	padding-top: 5px;
+	padding-bottom:5px;
+	height:20px;
+	display:block;
+	border-top-left-radius:3px;
+	border-top-right-radius:3px;
+	
+}
+
+
+
+
+.blueline {
+		border-top:1px;
+		border-top-color:rgba(87,145,187,1.00);
+		border-top-style:dashed;
+		padding-bottom:0px;
+	
+	}#bluegeneralcondition {
+	width: 100%;
+	height: 200px;
+	background-color: rgba(87,145,187,1.00);
+	height: 320px;
+}
+
+
+.container_12 .wrapper .block-wrapper .block.block1 .block-content .col2 a {
+	color:rgba(174,174,174,1.00);
+	text-decoration:none;
+}
+
+.container_12 .wrapper .block-wrapper .block.block1 .block-content   .col2  a:hover {
+	color:rgba(87,145,187,1.00);
+	text-decoration:none;
+}
+
+
+/*GREY SECION*/
+
+
+.onmountainbike5{}
+.bromontbordertop {
+	background-color: rgba(174,174,174,1.00);
+	height: 40px;
+	width: 100%;
+}
+
+
+#menudarkgrey #mainmenu #menu nav ul .drop .menutitle.onmountainbike5, #menudarkgrey #mainmenu #menu nav ul .drop .dropdownContain .dropOut ul li .redmenu.onmountainbike5 {
+
+	color: rgba(174,174,174,1.00);
+}
+
+
+
+.bromontbordertop .container_12 #SUBMENU ul li a:hover, .bromontbordertop .container_12 #SUBMENU ul li.onmountainbike5 a {
+	color: rgba(174,174,174,1.00);
+	background-color:white;
+	-webkit-transition: background-color 1s ease-out;
+	-moz-transition: background-color 1s ease-out;
+	-o-transition: background-color 1s ease-out;
+	transition: background-color 1s ease-out;
+
+	
+}
+ .bromontbordertop .container_12 #SUBMENU ul li a.onmountainbike5 {
+
+	background-color:rgba(255,255,255,1.00);
+	-webkit-transition: background-color .2s ease-out;
+	-moz-transition: background-color .2s ease-out;
+	-o-transition: background-color .2s ease-out;
+	transition: background-color .2s ease-out;
+	
+}
+
+ .bromontbordertop .container_12 #SUBMENU ul {
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	list-style-type: none;
+	
+		
+}
+ .bromontbordertop .container_12 #SUBMENU ul li {
+	float: left;
+	
+	
+	
+
+	
+	}
+	
+.bromontbordertop .container_12 #SUBMENU ul li a {
+	color: rgba(255,255,255,1.00);
+	font-size: 14px;
+	text-align: left;
+	text-decoration: none;
+	margin-top:10px;
+	margin-right: 10px;
+	padding-right: 10px;
+	padding-left:10px;
+	padding-top: 5px;
+	padding-bottom:5px;
+	height:20px;
+	display:block;
+	border-top-left-radius:3px;
+	border-top-right-radius:3px;
+	
+}
+
+	.tourism{
+		background-color:rgba(174,174,174,1.00);
+		text-align:center;
+		color:white;
+		font-size:14px;
+		margin-bottom:10px;
+		padding-bottom:5px;
+		padding-top:5px;
+		border-radius:10px;
+		}
+		
+		.container_12 .grid_6.tourism:hover  {
+			background-color:rgba(51,51,51,1.00);
+			cursor:pointer;
+			color:rgba(255,255,255,1.00);
+			text-decoration:none;
+			-webkit-transition: background-color .2s ease-out;
+	-moz-transition: background-color .2s ease-out;
+	-o-transition: background-color .2s ease-out;
+	transition: background-color .2s ease-out;
+}
+
+
+.eventbordertop {
+	background-color:rgba(232,88,71,1.00);
+	height: 40px;
+	width: 100%;
+}
+.onmountainbike7{}
+
+#menudarkgrey #mainmenu #menu .onmountainbike7 {
+
+	color: rgba(232,88,71,1.00);
+}.container_12 .grid_10.padding .maintext a {
+	color: rgba(151,151,151,1.00);
+	text-decoration:none;
+}
+
+.container_12 .grid_10.padding .maintext a:hover {
+	color: rgba(87,145,187,1.00);
+	text-decoration:none;
+}
+
+.paddingborderfaq {
+	border-bottom-color:rgba(220,6,9,1.00);
+	border-bottom-style:dashed;
+	border-bottom-width:1px;
+	padding-bottom:10px;
+	margin-bottom:20px;}
+
+.textfaq{
+	font-size:14px;
+	text-transform:uppercase ;
+	padding-left:20px;
+
+	
+	}
+	
+	.textfaq:hover{
+	color:rgba(220,6,9,1.00);
+	cursor:pointer;
+	
+	
+	}
+.radius {
+		border-radius:10px;
+		}
